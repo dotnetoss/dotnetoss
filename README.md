@@ -1,6 +1,6 @@
 # Welcome
 
-Create officehours.io account, send PR into `officehours/`
+Read https://twitter.com/GeoffreyHuntley/status/910482045079396353 then create officehours.io account and send PR into `officehours/`
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Would anyone want to experiment with virtual brown bag lunch sessions?</p>&mdash; Khalid Abuhakmeh (@buhakmeh) <a href="https://twitter.com/buhakmeh/status/910476678085963776">September 20, 2017</a></blockquote>
 
