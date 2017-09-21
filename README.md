@@ -10,3 +10,8 @@ Read https://twitter.com/GeoffreyHuntley/status/910482045079396353 then create o
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sign me up</p>&mdash; Scott Hanselman (@shanselman) <a href="https://twitter.com/shanselman/status/905879182231584768">September 7, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Virtual <a href="https://t.co/eP88cw63qC">https://t.co/eP88cw63qC</a> Brownbags were fun chats back in the day. Bring&#39;em back, sans anger! <a href="https://t.co/gVjOnPziH1">https://t.co/gVjOnPziH1</a> <a href="https://twitter.com/ClaudioLassala">@ClaudioLassala</a></p>&mdash; 🎯 Eric Williams 🏹 (@MotoWilliams) <a href="https://twitter.com/MotoWilliams/status/910686784585031681">September 21, 2017</a></blockquote>
+
+
+https://lassala.net/2009/04/10/learn-and-share-at-the-virtual-brown-bag-meetings/
